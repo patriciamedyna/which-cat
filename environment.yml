@@ -23,3 +23,4 @@ dependencies:
   - git+https://github.com/fastai/fastcore.git@master
   - git+https://github.com/fastai/fastai2.git@master
   - nbdev
+  - graphviz
