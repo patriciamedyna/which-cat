@@ -1,2 +1,2 @@
-fastai2
+git+https://github.com/fastai/fastai_dev
 voila
