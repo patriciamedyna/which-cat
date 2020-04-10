@@ -19,6 +19,6 @@ dependencies:
 - scipy
 - spacy
 - pip:
-  - git+https://github.com/fastai/fastai_dev
+  - git+https://github.com/fastai/fastai2
   - voila
 
