@@ -18,4 +18,7 @@ dependencies:
 - scikit-learn
 - scipy
 - spacy
+- pip:
+	- git+https://github.com/fastai/fastai_dev
+	- voila
 
